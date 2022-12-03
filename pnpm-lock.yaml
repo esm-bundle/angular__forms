@@ -19,14 +19,14 @@ specifiers:
   rimraf: 3.0.2
   rollup: 2.79.1
   rollup-plugin-terser: 7.0.2
-  rxjs: 7.5.7
+  rxjs: 7.6.0
   typescript: 4.9.3
 
 devDependencies:
   '@angular/compiler': 15.0.2_@angular+core@15.0.2
   '@angular/compiler-cli': 15.0.2_8ded4ea8d037676fd8f7362f8e70df46
-  '@angular/core': 15.0.2_rxjs@7.5.7
-  '@angular/forms': 15.0.2_@angular+core@15.0.2+rxjs@7.5.7
+  '@angular/core': 15.0.2_rxjs@7.6.0
+  '@angular/forms': 15.0.2_@angular+core@15.0.2+rxjs@7.6.0
   '@rollup/plugin-babel': 6.0.3_rollup@2.79.1
   concurrently: 7.6.0
   husky: 8.0.2
@@ -41,7 +41,7 @@ devDependencies:
   rimraf: 3.0.2
   rollup: 2.79.1
   rollup-plugin-terser: 7.0.2_rollup@2.79.1
-  rxjs: 7.5.7
+  rxjs: 7.6.0
   typescript: 4.9.3
 
 packages:
@@ -86,22 +86,22 @@ packages:
       '@angular/core':
         optional: true
     dependencies:
-      '@angular/core': 15.0.2_rxjs@7.5.7
+      '@angular/core': 15.0.2_rxjs@7.6.0
       tslib: 2.3.1
     dev: true
 
-  /@angular/core/15.0.2_rxjs@7.5.7:
+  /@angular/core/15.0.2_rxjs@7.6.0:
     resolution: {integrity: sha512-qM0T4r3Z3Qfk+5+M5JRB1qr3AUKgabbC0kARY+R+QvwbQBE6UoeWw5eRuUbTGDP70Ikeeg0xZebpkr7Oghp9/A==}
     engines: {node: ^14.20.0 || ^16.13.0 || >=18.10.0}
     peerDependencies:
       rxjs: ^6.5.3 || ^7.4.0
       zone.js: ~0.11.4 || ~0.12.0
     dependencies:
-      rxjs: 7.5.7
+      rxjs: 7.6.0
       tslib: 2.3.1
     dev: true
 
-  /@angular/forms/15.0.2_@angular+core@15.0.2+rxjs@7.5.7:
+  /@angular/forms/15.0.2_@angular+core@15.0.2+rxjs@7.6.0:
     resolution: {integrity: sha512-c7t2pk1nzXIibIaIo4wsDd+VipiuDXqV1bolluAVaRjnS80BEQqOkudNNBgodx8sVkjEYI+cpLp+vE7FEOjHdg==}
     engines: {node: ^14.20.0 || ^16.13.0 || >=18.10.0}
     peerDependencies:
@@ -110,8 +110,8 @@ packages:
       '@angular/platform-browser': 15.0.2
       rxjs: ^6.5.3 || ^7.4.0
     dependencies:
-      '@angular/core': 15.0.2_rxjs@7.5.7
-      rxjs: 7.5.7
+      '@angular/core': 15.0.2_rxjs@7.6.0
+      rxjs: 7.6.0
       tslib: 2.3.1
     dev: true
 
@@ -998,7 +998,7 @@ packages:
       chalk: 4.1.2
       date-fns: 2.29.2
       lodash: 4.17.21
-      rxjs: 7.5.7
+      rxjs: 7.6.0
       shell-quote: 1.7.3
       spawn-command: 0.0.2-1
       supports-color: 8.1.1
@@ -1963,7 +1963,7 @@ packages:
       mute-stream: 0.0.8
       ora: 6.1.2
       run-async: 2.4.1
-      rxjs: 7.5.7
+      rxjs: 7.6.0
       string-width: 5.1.2
       strip-ansi: 7.0.1
       through: 2.3.8
@@ -3165,8 +3165,8 @@ packages:
       queue-microtask: 1.2.2
     dev: true
 
-  /rxjs/7.5.7:
-    resolution: {integrity: sha512-z9MzKh/UcOqB3i20H6rtrlaE/CgjLOvheWK/9ILrbhROGTweAi1BaFsTT9FbwZi5Trr1qNRs+MXkhmR06awzQA==}
+  /rxjs/7.6.0:
+    resolution: {integrity: sha512-DDa7d8TFNUalGC9VqXvQ1euWNN7sc63TrUCuM9J998+ViviahMIjKSOU7rfcgFOF+FCD71BhDRv4hrFz+ImDLQ==}
     dependencies:
       tslib: 2.3.1
     dev: true
