@@ -6,7 +6,7 @@ specifiers:
   '@angular/core': 15.2.4
   '@angular/forms': 15.2.4
   '@rollup/plugin-babel': 6.0.3
-  concurrently: 8.0.0
+  concurrently: 8.0.1
   husky: 8.0.3
   karma: 6.4.1
   karma-firefox-launcher: 2.1.2
@@ -28,7 +28,7 @@ devDependencies:
   '@angular/core': 15.2.4_rxjs@7.8.0
   '@angular/forms': 15.2.4_@angular+core@15.2.4+rxjs@7.8.0
   '@rollup/plugin-babel': 6.0.3_rollup@2.79.1
-  concurrently: 8.0.0
+  concurrently: 8.0.1
   husky: 8.0.3
   karma: 6.4.1
   karma-firefox-launcher: 2.1.2
@@ -1036,8 +1036,8 @@ packages:
     resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
     dev: true
 
-  /concurrently/8.0.0:
-    resolution: {integrity: sha512-1fjagjL+RgPRAx9Wi8Yv866Whtx34MRdk9qf6wwxpQoYL2mD+lUZMOe9RXYULC6eBl6e4sde6cu8bpyg9Rd9/w==}
+  /concurrently/8.0.1:
+    resolution: {integrity: sha512-Sh8bGQMEL0TAmAm2meAXMjcASHZa7V0xXQVDBLknCPa9TPtkY9yYs+0cnGGgfdkW0SV1Mlg+hVGfXcoI8d3MJA==}
     engines: {node: ^14.13.0 || >=16.0.0}
     hasBin: true
     dependencies:
