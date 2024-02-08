@@ -12,25 +12,15 @@ A repo that tests automatic detection of upstream publishes and the publishing o
 
 ### @angular/forms
 
-#### ES2015
+#### ES2022
 
-https://cdn.jsdelivr.net/npm/@esm-bundle/angular__forms/system/es2015/ivy/angular-forms.js
+https://cdn.jsdelivr.net/npm/@esm-bundle/angular__forms/system/es2022/ivy/angular-forms.js
 
-https://cdn.jsdelivr.net/npm/@esm-bundle/angular__forms/system/es2015/ivy/angular-forms.min.js
+https://cdn.jsdelivr.net/npm/@esm-bundle/angular__forms/system/es2022/ivy/angular-forms.min.js
 
-https://unpkg.com/@esm-bundle/angular__forms/system/es2015/ivy/angular-forms.js
+https://unpkg.com/@esm-bundle/angular__forms/system/es2022/ivy/angular-forms.js
 
-https://unpkg.com/@esm-bundle/angular__forms/system/es2015/ivy/angular-forms.min.js
-
-#### ES2020
-
-https://cdn.jsdelivr.net/npm/@esm-bundle/angular__forms/system/es2020/ivy/angular-forms.js
-
-https://cdn.jsdelivr.net/npm/@esm-bundle/angular__forms/system/es2020/ivy/angular-forms.min.js
-
-https://unpkg.com/@esm-bundle/angular__forms/system/es2020/ivy/angular-forms.js
-
-https://unpkg.com/@esm-bundle/angular__forms/system/es2020/ivy/angular-forms.min.js
+https://unpkg.com/@esm-bundle/angular__forms/system/es2022/ivy/angular-forms.min.js
 
 ## Specific Version
 
